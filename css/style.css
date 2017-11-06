@@ -1,0 +1,100 @@
+
+a{
+  color:red;
+}
+/* Clear floats after the columns */
+.row:after {
+   content: "";
+   display: table;
+   clear: both;
+}
+
+
+/*accordion*/
+/* Style the buttons that are used to open and close the accordion panel */
+button.accordion {
+   background-color: #F0EAD6;
+   color: #444;
+   cursor: pointer;
+   padding: 18px;
+   width: 100%;
+   text-align: left;
+   border: grey;
+   outline: none;
+   transition: 0.4s;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+button.accordion.active, button.accordion:hover {
+   background-color: #F0EAD6;
+}
+
+/* Style the accordion panel. Note: hidden by default */
+div.panel {
+   padding: 0 50px;
+   background-color: white;
+   display: none;
+}
+
+#slides {
+  position: relative;
+  left: 150px;
+}
+
+/* style custom navigation */
+ul { padding: 0; margin: 0; }
+li { list-style: none; float: left; margin-right: .25em; font-family: monospace; }
+li a { display: block; background: #399; padding: .25em 1em; color: #fff; text-decoration: none; border-radius: 0 0 .25em .25em; }
+
+
+
+
+#table{
+  display:none;
+  position:relative;
+  bottom: 100px;
+  left: 100px;
+
+}
+
+
+#container2 g.highcharts-legend, g.highcharts-label-box {
+  display: none;
+}
+
+
+
+#us-map{
+position: relative;
+left:100px;
+}
+path:hover, circle:hover {
+  stroke: #002868 !important;
+  stroke-width:2px;
+  stroke-linejoin: round;
+  fill: #002868 !important;
+  cursor: pointer;
+}
+#path67 {
+  fill: none !important;
+  stroke: #A9A9A9 !important;
+  cursor: default;
+}
+#info-box {
+  display: none;
+  position: absolute;
+  top: 0px;
+  left: -px;
+  z-index: 1;
+  background-color: #ffffff;
+  border: 2px solid #B0B0FF;
+  border-radius: 5px;
+  padding: 5px;
+  font-family: arial;
+
+}
+
+h1 {
+  position:relative;
+  left: 100px;
+}
