@@ -1,12 +1,5 @@
 {
   "data": [
-   "Year",
-    "11 Cause Name",
-    "Cause Name",
-    "State",
-    "Deaths",
-    "Age-adjusted Death Rate"
- ]
  [
     "2013",
     "Alzheimer's disease (G30)",
@@ -14,7 +7,7 @@
     "Alabama",
     "1398",
     "26.7"
- ]
+ ],
  [
     "2013",
     "Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",
@@ -22,7 +15,7 @@
     "Alabama",
     "417",
     "9"
- ]
+ ],
  [
     "2013",
     "Cerebrovascular diseases (I60-I69)",
@@ -30,7 +23,7 @@
     "Alabama",
     "2604",
     "48.1"
- ]
+ ],
  [
     "2013",
     "Chronic liver disease and cirrhosis (K70,K73-K74)",
@@ -38,7 +31,7 @@
     "Alabama",
     "577",
     "10.1"
- ]
+ ],
  [
     "2013",
     "Chronic lower respiratory diseases (J40-J47)",
@@ -46,7 +39,7 @@
     "Alabama",
     "3043",
     "54.8"
- ]
+ ],
  [
     "2013",
     "Diabetes mellitus (E10-E14)",
@@ -54,7 +47,7 @@
     "Alabama",
     "1349",
     "24.3"
- ]
+ ],
  [
     "2013",
     "Diseases of heart (I00-I09,I11,I13,I20-I51)",
@@ -62,7 +55,7 @@
     "Alabama",
     "12472",
     "228.4"
- ]
+ ],
  [
     "2013",
     "Essential hypertension and hypertensive renal disease (I10,I12,I15)",
@@ -70,7 +63,7 @@
     "Alabama",
     "585",
     "10.6"
- ]
+ ],
  [
     "2013",
     "Influenza and pneumonia (J09-J18)",
@@ -78,7 +71,7 @@
     "Alabama",
     "1035",
     "19.2"
- ]
+ ],
  [
     "2013",
     "Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",
@@ -86,7 +79,7 @@
     "Alabama",
     "721",
     "14.4"
- ]
+ ],
  [
     "2013",
     "Malignant neoplasms (C00-C97)",
@@ -94,7 +87,7 @@
     "Alabama",
     "10328",
     "182.2"
- ]
+ ],
  [
     "2013",
     "Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",
@@ -102,7 +95,7 @@
     "Alabama",
     "1057",
     "19.3"
- ]
+ ],
  [
     "2013",
     "Parkinson's disease (G20-G21)",
@@ -110,7 +103,7 @@
     "Alabama",
     "425",
     "8.1"
- ]
+ ],
  [
     "2013",
     "Alzheimer's disease (G30)",
@@ -118,7 +111,7 @@
     "Alaska",
     "72",
     "18.9"
- ]
+ ],
  [
     "2013",
     "Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",
@@ -126,7 +119,7 @@
     "Alaska",
     "43",
     "5.7"
- ]
+ ],
  [
     "2013",
     "Cerebrovascular diseases (I60-I69)",
@@ -134,7 +127,7 @@
     "Alaska",
     "189",
     "40.7"
- ]
+ ],
  [
     "2013",
     "Chronic liver disease and cirrhosis (K70,K73-K74)",
@@ -142,7 +135,7 @@
     "Alaska",
     "82",
     "11.3"
- ]
+ ],
  [
     "2013",
     "Chronic lower respiratory diseases (J40-J47)",
@@ -150,7 +143,7 @@
     "Alaska",
     "197",
     "37.9"
- ]
+ ],
  [
     "2013",
     "Diabetes mellitus (E10-E14)",
@@ -158,7 +151,7 @@
     "Alaska",
     "112",
     "20.1"
- ]
+ ],
  [
     "2013",
     "Diseases of heart (I00-I09,I11,I13,I20-I51)",
@@ -166,7 +159,7 @@
     "Alaska",
     "706",
     "135"
- ]
+ ],
  [
     "2013",
     "Essential hypertension and hypertensive renal disease (I10,I12,I15)",
@@ -174,7 +167,7 @@
     "Alaska",
     "35",
     "6.9"
- ]
+ ],
  [
     "2013",
     "Influenza and pneumonia (J09-J18)",
@@ -182,7 +175,7 @@
     "Alaska",
     "66",
     "14.1"
- ]
+ ],
  [
     "2013",
     "Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",
@@ -190,7 +183,7 @@
     "Alaska",
     "171",
     "23.2"
- ]
+ ],
  [
     "2013",
     "Malignant neoplasms (C00-C97)",
@@ -198,7 +191,7 @@
     "Alaska",
     "1016",
     "172"
- ]
+ ],
  [
     "2013",
     "Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",
@@ -206,7 +199,7 @@
     "Alaska",
     "49",
     "10.1"
- ]
+ ],
  [
     "2013",
     "Parkinson's disease (G20-G21)",
@@ -214,7 +207,7 @@
     "Alaska",
     "36",
     "8.9"
- ]
+ ],
  [
     "2013",
     "Alzheimer's disease (G30)",
@@ -222,7 +215,7 @@
     "Arizona",
     "2383",
     "31.7"
- ]
+ ],
  [
     "2013",
     "Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",
@@ -230,7 +223,7 @@
     "Arizona",
     "389",
     "6"
- ]
+ ],
  [
     "2013",
     "Cerebrovascular diseases (I60-I69)",
@@ -238,7 +231,7 @@
     "Arizona",
     "2162",
     "28.6"
- ]
+ ],
  [
     "2013",
     "Chronic liver disease and cirrhosis (K70,K73-K74)",
@@ -246,7 +239,7 @@
     "Arizona",
     "1069",
     "14.7"
- ]
+ ],
  [
     "2013",
     "Chronic lower respiratory diseases (J40-J47)",
@@ -254,7 +247,7 @@
     "Arizona",
     "3345",
     "43.5"
- ]
+ ],
  [
     "2013",
     "Diabetes mellitus (E10-E14)",
@@ -262,7 +255,7 @@
     "Arizona",
     "1786",
     "23.5"
- ]
+ ],
  [
     "2013",
     "Diseases of heart (I00-I09,I11,I13,I20-I51)",
@@ -270,7 +263,7 @@
     "Arizona",
     "10755",
     "141.1"
- ]
+ ],
  [
     "2013",
     "Essential hypertension and hypertensive renal disease (I10,I12,I15)",
@@ -278,7 +271,7 @@
     "Arizona",
     "775",
     "10.2"
- ]
+ ],
  [
     "2013",
     "Influenza and pneumonia (J09-J18)",
@@ -286,7 +279,7 @@
     "Arizona",
     "776",
     "10.4"
- ]
+ ],
  [
     "2013",
     "Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",
@@ -294,7 +287,7 @@
     "Arizona",
     "1163",
     "17.5"
- ]
+ ],
  [
     "2013",
     "Malignant neoplasms (C00-C97)",
@@ -302,7 +295,7 @@
     "Arizona",
     "11347",
     "147"
- ]
+ ],
  [
     "2013",
     "Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",
@@ -310,7 +303,7 @@
     "Arizona",
     "374",
     "4.9"
- ]
+ ],
  [
     "2013",
     "Parkinson's disease (G20-G21)",
@@ -318,7 +311,7 @@
     "Arizona",
     "584",
     "7.8"
- ]
+ ],
  [
     "2013",
     "Alzheimer's disease (G30)",
@@ -326,7 +319,7 @@
     "Arkansas",
     "918",
     "27.2"
- ]
+ ],
  [
     "2013",
     "Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",
@@ -334,7 +327,7 @@
     "Arkansas",
     "212",
     "7.5"
- ]
+ ],
  [
     "2013",
     "Cerebrovascular diseases (I60-I69)",
@@ -342,7 +335,7 @@
     "Arkansas",
     "1637",
     "47.6"
- ]
+ ],
  [
     "2013",
     "Chronic liver disease and cirrhosis (K70,K73-K74)",
@@ -350,7 +343,7 @@
     "Arkansas",
     "338",
     "9.8"
- ]
+ ],
  [
     "2013",
     "Chronic lower respiratory diseases (J40-J47)",
@@ -358,7 +351,7 @@
     "Arkansas",
     "2090",
     "60.1"
- ]
+ ],
  [
     "2013",
     "Diabetes mellitus (E10-E14)",
@@ -366,7 +359,7 @@
     "Arkansas",
     "835",
     "24.2"
- ]
+ ],
  [
     "2013",
     "Diseases of heart (I00-I09,I11,I13,I20-I51)",
@@ -374,7 +367,7 @@
     "Arkansas",
     "7377",
     "214.1"
- ]
+ ],
  [
     "2013",
     "Essential hypertension and hypertensive renal disease (I10,I12,I15)",
@@ -382,7 +375,7 @@
     "Arkansas",
     "276",
     "8.1"
- ]
+ ],
  [
     "2013",
     "Influenza and pneumonia (J09-J18)",
@@ -390,7 +383,7 @@
     "Arkansas",
     "794",
     "23.3"
- ]
+ ],
  [
     "2013",
     "Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",
@@ -398,8 +391,8 @@
     "Arkansas",
     "516",
     "17.3"
-
- [
+  ],
+  [
     "2013",
     "Malignant neoplasms (C00-C97)",
     "Cancer",
